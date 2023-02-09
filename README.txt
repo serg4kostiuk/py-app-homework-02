@@ -6,6 +6,7 @@ Installation
 ------------
 - install packets: pip install -r requirements.txt
 - create "logs" directory near app.py file
+- test
 
 Execution
 ---------
